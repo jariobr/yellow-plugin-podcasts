@@ -1,0 +1,9 @@
+---
+Sitename: Jario Podcasts
+Title: Podcasts
+Description: Áudios sobre espiritualidade, especialmente sarvayoga, esoterismo, defesa dos animais e meio ambiente.
+Template: podcastspages
+TemplateNew: podcasts
+Siteicon: http://jario.com.br/media/images/podcast-icon.png
+---
+Jario Podcasts. Áudios gravados sobre espiritualidade, especialmente sarvayoga, esoterismo, defesa dos animais e meio ambiente.

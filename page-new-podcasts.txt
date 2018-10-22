@@ -1,0 +1,10 @@
+---
+Title: Podcasts page
+Published: @datetime
+Author: @username
+Template: podcasts
+Tag: Example
+Mediafile: https://jario.com.br/media/audio/*.mp3
+Duration: 00:00:00
+---
+This is a new podcasts page.
