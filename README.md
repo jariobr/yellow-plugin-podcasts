@@ -80,7 +80,7 @@ url: other.any.domain.tld or ...
 photo: http://domain.tld/media/images/name.jpg   
 googlePlus: +name or 111223344555555   
 Facebook: name   
-FacebookId: 222223333322222 (Faceboo App)   
+FacebookId: 222223333322222 (Facebook App Id get one in https://developers.facebook.com)   
 Youtube: name   
 Linkedin: name   
 Github: name   
