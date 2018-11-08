@@ -74,20 +74,20 @@ You can use shortcuts to show information about the podcasts:
 
 Add to /system/config/text.ini
 
-authorDescription: about author
-name: full name or ...
-url: other.any.domain.tld or ...
-photo: http://domain.tld/media/images/name.jpg
-googlePlus: +name or 111223344555555
-Facebook: name
-FacebookId: 222223333322222 (Faceboo App)
-Youtube: name
-Linkedin: name
-Github: name
-Instagram: name
-Twitter: name
-
-#### Config.ini config 
+authorDescription: about author   
+name: full name or ...   
+url: other.any.domain.tld or ...   
+photo: http://domain.tld/media/images/name.jpg   
+googlePlus: +name or 111223344555555   
+Facebook: name   
+FacebookId: 222223333322222 (Faceboo App)   
+Youtube: name   
+Linkedin: name   
+Github: name   
+Instagram: name   
+Twitter: name   
+   
+#### For config.ini file
 
 The following arguments are available, all but the first argument are optional:   
 
